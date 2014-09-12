@@ -1,0 +1,9 @@
+[app]
+  version: 0.1.0
+  org: com.github.ackintosh
+  name: eruesu
+  class: com.github.ackintosh.Eruesu
+[scala]
+  version: 2.11.2
+[repositories]
+  gh-pages:http://ackintosh.github.io/eruesu_repo/
